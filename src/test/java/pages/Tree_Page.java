@@ -15,13 +15,14 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import appHook.Hooks;
+import Base.BaseTest;
+
 
 public class Tree_Page {
 	
    WebDriver driver;
    WebDriverWait wait;
-   List<Map<String, String>> Login = Hooks.Login; //if you want to use login sheet
+   List<Map<String, String>> Login = BaseTest.Login; //if you want to use login sheet
    
 	 @FindBy(xpath = "//a[@href='tree']") WebElement getstdButton;	
 	 @FindBy(linkText="Try here>>>") WebElement tryhereButton;

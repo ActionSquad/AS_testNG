@@ -10,13 +10,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import appHook.Hooks;
+import Base.BaseTest;
+
 
 public class Login_Page {
 	
 	WebDriver driver;
 	
-	List<Map<String, String>> Login = Hooks.Login; 
+	List<Map<String, String>> Login = BaseTest.Login; 
    
 	
 	@FindBy(className ="btn") WebElement getStdButton;

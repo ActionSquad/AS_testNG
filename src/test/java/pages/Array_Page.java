@@ -18,15 +18,16 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import Base.BaseTest;
 
-import appHook.Hooks;
+
 
 public class Array_Page {
 
 		WebDriver driver;
 		WebDriverWait wait;
 	Util util = new Util();
-		List<Map<String, String>> Login = Hooks.Login;
+		List<Map<String, String>> Login = BaseTest.Login;
 		String excelPath = "src/test/resources/TestData/ExcelData.xlsx";
 		
 		//ArrayPage
