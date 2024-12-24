@@ -1,195 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-23T19:01:46 CST" name="Default suite" finished-at="2024-12-23T19:02:07 CST" duration-ms="20514">
+  <suite started-at="2024-12-24T00:06:08 CST" name="Default suite" finished-at="2024-12-24T00:06:25 CST" duration-ms="17278">
     <groups>
     </groups>
-    <test started-at="2024-12-23T19:01:46 CST" name="Default test" finished-at="2024-12-23T19:02:07 CST" duration-ms="20514">
-      <class name="testCases.Login_TestCase">
-        <test-method is-config="true" signature="driverSetup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:46 CST" name="driverSetup" finished-at="2024-12-23T19:01:53 CST" duration-ms="7252" status="PASS">
+    <test started-at="2024-12-24T00:06:08 CST" name="Default test" finished-at="2024-12-24T00:06:25 CST" duration-ms="17278">
+      <class name="testCases.Tree_TestCase">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:testCases.Tree_TestCase@6c40365c]" started-at="2024-12-24T00:06:08 CST" name="driverSetup" finished-at="2024-12-24T00:06:16 CST" duration-ms="7921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverSetup -->
-        <test-method is-config="true" signature="setUpExcel()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:53 CST" name="setUpExcel" finished-at="2024-12-23T19:01:56 CST" duration-ms="2305" status="PASS">
+        <test-method is-config="true" signature="setUpExcel()[pri:0, instance:testCases.Tree_TestCase@6c40365c]" started-at="2024-12-24T00:06:16 CST" name="setUpExcel" finished-at="2024-12-24T00:06:18 CST" duration-ms="2427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpExcel -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:56 CST" name="setup" finished-at="2024-12-23T19:01:58 CST" duration-ms="2048" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Tree_TestCase@6c40365c]" started-at="2024-12-24T00:06:18 CST" name="setup" finished-at="2024-12-24T00:06:21 CST" duration-ms="2529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:58 CST" name="InvalidLogin" data-provider="loginData" finished-at="2024-12-23T19:01:58 CST" duration-ms="377" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ActionSquad]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Please fill out this field.]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[passalert]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="ValidTryHereFunctionality()[pri:0, instance:testCases.Tree_TestCase@6c40365c]" started-at="2024-12-24T00:06:21 CST" name="ValidTryHereFunctionality" finished-at="2024-12-24T00:06:24 CST" duration-ms="3361" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:58 CST" name="closeup" finished-at="2024-12-23T19:01:59 CST" duration-ms="665" status="PASS">
+        </test-method> <!-- ValidTryHereFunctionality -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Tree_TestCase@6c40365c]" started-at="2024-12-24T00:06:24 CST" name="closeup" finished-at="2024-12-24T00:06:25 CST" duration-ms="928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:01:59 CST" name="setup" finished-at="2024-12-23T19:02:00 CST" duration-ms="537" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:00 CST" name="InvalidLogin" data-provider="loginData" finished-at="2024-12-23T19:02:00 CST" duration-ms="333" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abc@1234]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Please fill out this field.]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[useralert]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:00 CST" name="closeup" finished-at="2024-12-23T19:02:00 CST" duration-ms="275" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:00 CST" name="setup" finished-at="2024-12-23T19:02:01 CST" duration-ms="1154" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:01 CST" name="InvalidLogin" data-provider="loginData" finished-at="2024-12-23T19:02:02 CST" duration-ms="302" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Please fill out this field.]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[useralert]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:02 CST" name="closeup" finished-at="2024-12-23T19:02:03 CST" duration-ms="866" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:03 CST" name="setup" finished-at="2024-12-23T19:02:03 CST" duration-ms="647" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:03 CST" name="InvalidLogin" data-provider="loginData" finished-at="2024-12-23T19:02:04 CST" duration-ms="350" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[dfjnjdf]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[adcvt]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Invalid Username and Password]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Inspectable]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:04 CST" name="closeup" finished-at="2024-12-23T19:02:04 CST" duration-ms="208" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:04 CST" name="setup" finished-at="2024-12-23T19:02:04 CST" duration-ms="566" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="InvalidLogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:04 CST" name="InvalidLogin" data-provider="loginData" finished-at="2024-12-23T19:02:05 CST" duration-ms="553" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[BiriYani]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Invalid Username and Password]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Inspectable]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- InvalidLogin -->
-        <test-method is-config="true" signature="closeup()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:05 CST" name="closeup" finished-at="2024-12-23T19:02:06 CST" duration-ms="698" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeup -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Login_TestCase@20d525]" started-at="2024-12-23T19:02:06 CST" name="tearDown" finished-at="2024-12-23T19:02:07 CST" duration-ms="1155" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.Login_TestCase -->
+      </class> <!-- testCases.Tree_TestCase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

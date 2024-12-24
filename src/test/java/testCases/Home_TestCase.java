@@ -36,10 +36,10 @@ public class Home_TestCase extends BaseTest{
 		public void HomeGetstd(String values, String title) {
 			login_page.LoginValid();
 			home_page.clickOptionGetstd(values);
-	//have to write assertion	
-			
+		
 			
 			}
+	 
 	 
 	}
 
