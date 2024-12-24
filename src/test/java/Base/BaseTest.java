@@ -23,13 +23,12 @@ public class BaseTest {
 	    @BeforeClass
 	   // @Parameters({"browser"})
 	   // public  void setUpDriver(String browser) {
-	    public void setUpDriver(){
-	    	{
+	    public void driverSetup(){
 	    		DriverConfig.getdriver(ConfigReader.getProperty("Browser"));
 	        //    DriverConfig.getdriver(browser);
 	            LoggerLoad.info("Browser is opened" );
 	        }
-	    }
+	    
 	    	
 	    @BeforeClass
 	    public void setUpExcel() {
@@ -47,13 +46,11 @@ public class BaseTest {
 	           
 	       }
 	    }
-	 
-	    
+
 	   @AfterClass
 	  public static void tearDown() {
 		   LoggerLoad.info("Closing the WebDriver instance");
-	
 	        DriverConfig.quitdriver();
-	        
-}
-}
+	   }
+   }
+
