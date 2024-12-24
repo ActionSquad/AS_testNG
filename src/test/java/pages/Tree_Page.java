@@ -68,6 +68,10 @@ public class Tree_Page {
 		 wait.until(ExpectedConditions.elementToBeClickable(runButton));
 		 runButton.click();
 	 }
+	 
+	 public void TxtareaClear() {
+		 txteditorField.clear();
+	 }
 //**************************************************************************************************************************
 	/* public void RunBtn() {
 	 try {
@@ -142,6 +146,14 @@ public class Tree_Page {
     txteditorField.sendKeys(code);
  
     	}
+    
+    public void ValidTextEditor() {
+    	String code = Login.get(0).get("code");
+    	 {String text=code;
+    	    ((JavascriptExecutor) driver).executeScript("arguments[0].setAttribute('value','"+text+"')", txteditorField);
+    	    txteditorField.sendKeys(code);	
+    }
+    }
     
     public String OutputTxtEditorField() {
     	String output = Login.get(0).get("output");

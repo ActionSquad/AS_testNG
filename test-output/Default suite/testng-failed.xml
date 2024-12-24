@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.Login_TestCase">
+      <class name="testCases.Tree_TestCase">
         <methods>
-          <include name="ToRegPage"/>
+          <include name="ValidTryHereFunctionality"/>
           <include name="setUpExcel"/>
-          <include name="driverSetup"/>
           <include name="closeup"/>
+          <include name="driverSetup"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.Login_TestCase -->
+      </class> <!-- testCases.Tree_TestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
