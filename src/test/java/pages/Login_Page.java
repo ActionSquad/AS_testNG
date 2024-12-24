@@ -1,23 +1,25 @@
 package pages;
 
+
+import java.time.Duration;
 import java.util.List;
 import java.util.Map;
-
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import Base.BaseTest;
-
+import driverFactory.DriverConfig;
 
 public class Login_Page {
 	
 	WebDriver driver;
-	
-	List<Map<String, String>> Login = BaseTest.Login; 
+	WebDriverWait wait;
+	List<Map<String, String>> Login = BaseTest.Login;
    
 	
 	@FindBy(className ="btn") WebElement getStdButton;
@@ -25,22 +27,29 @@ public class Login_Page {
 	@FindBy(id="id_username")public WebElement usernameField;
 	@FindBy(id="id_password")public WebElement passwordField;
 	@FindBy(xpath="//input[@type='submit']") WebElement loginButton;
-	@FindBy(xpath="//div[@class='alert alert-primary']") WebElement invalidcredAlert;
-	@FindBy(xpath="//div[contains(text(),'You are logged in')]") WebElement loginalert;
+	@FindBy(xpath="//div[@class='alert alert-primary']") WebElement validandnvalidcredAlert;
 	@FindBy(linkText ="Sign out") WebElement logoutButton;
+	@FindBy(xpath="//a[text()='NumpyNinja']") WebElement numpyninja;
+	@FindBy(linkText ="Register!") WebElement regButton;
 	
-	public Login_Page(WebDriver driver) {
-		this.driver = driver;
+	
+	
+	public Login_Page( WebDriver driver) {
+   		 this.driver = DriverConfig.getDriverInstance();
+   	  this.wait=new WebDriverWait(driver,Duration.ofSeconds(10));
 		PageFactory.initElements(driver, this);
 	}
 	
+	public void RegisterButton()
+	{
+		regButton.click();
+	}
 	public void LoginButton() {
 		
 		loginButton.click();
 	}
-	
-	public void getstdButton() {
-		getStdButton.click();	
+	public void LogoutButton() {
+		logoutButton.click();
 	}
 	
 	public String PageTitle() {
@@ -64,40 +73,53 @@ public class Login_Page {
    public void Credentials(String username, String password) {
 	usernameField.sendKeys(username);
 	passwordField.sendKeys(password);
-
-
    }
-    public void CurrentUrl() {
-    	String url = common.ConfigReader.getProperty("URL");
-    	String curUrl =driver.getCurrentUrl();
-    	System.out.println("Current URL :" +curUrl);
-    	Assert.assertEquals(url, curUrl);
-    }
-   public void GetstdButton() {
+  public void GetstdButton() {
 	   getStdButton.click();
    }
    public void SigninButton() {
 	   signInButton.click();
    }
    
-   
-   public String InvalidcredAlert() {
-	   return invalidcredAlert.getText();
-	   
-   }
-   public String LoginAlert()
-   {
-	   return loginalert.getText();
+   public String ValidandInvalidcredAlert() {
+	   return validandnvalidcredAlert.getText().trim();  
    }
    
-   public void LoginwithvalidCred() {
-	   String username = Login.get(0).get("username");  
+   public void NumpyNinja() {
+	
+	  numpyninja.click();
+   }
+ //*******************************************************************************************  
+   public void LoginValid() {
+	   getStdButton.click();
+	   signInButton.click();
+	    String username = Login.get(0).get("username");
 		String password = Login.get(0).get("password");
 		usernameField.sendKeys(username);
-    	passwordField.sendKeys(password);
-    	loginButton.click();
-	 
+		passwordField.sendKeys(password);
+		loginButton.click();
+	} 
+ //*************************************************************************************************  
+   public void  GetStdPage() {
+	   String url = common.ConfigReader.getProperty("URL");
+	   driver.get(url);
+	   
    }
+   
+   public void SignInPage() {
+	   getStdButton.click();
+	   signInButton.click();
+   }
+   
+   public void SignInwithCred()
+   {
+	   String username = Login.get(0).get("username");
+		String password = Login.get(0).get("password");
+		usernameField.sendKeys(username);
+		passwordField.sendKeys(password);
+		loginButton.click();
+   }
+   
 }
 
 
@@ -144,4 +166,4 @@ return alertmsg;
 	 //String password = ConfigReader.getProperty("Password");
 
 
-
+//((JavascriptExecutor) driver).executeScript("arguments[0].click();", numpyninja);

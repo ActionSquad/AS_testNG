@@ -1,0 +1,1966 @@
+[INFO ] 2024-12-23 12:03:44.183 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:03:44.192 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:03:44.197 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:03:45.041 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:03:45.042 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:03:45.052 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:03:46.564 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:03:46.564 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:03:46.580 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:04:40.303 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:04:40.313 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:04:40.319 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:04:41.121 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:04:41.122 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:04:41.124 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:04:42.073 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:04:42.073 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:04:42.083 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:05:43.749 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:05:43.800 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:05:43.805 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:05:44.976 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:05:44.977 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:05:44.977 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:05:46.246 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:05:46.246 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:05:46.246 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:06:40.723 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:06:40.733 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:06:40.738 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:06:42.162 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:06:42.162 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:06:42.162 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:06:43.593 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:06:43.593 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:06:43.608 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:44.425 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:44.437 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:44.443 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:45.241 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:08:45.242 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:08:45.242 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:08:46.369 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:46.369 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:48.064 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:08:48.064 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:03.112 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:03.116 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:18.150 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:18.151 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:33.199 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:33.200 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:48.219 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:09:48.219 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:03.264 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:10:03.265 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:03.277 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:57.336 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:57.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:57.355 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:10:58.711 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:10:58.712 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:10:58.712 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 12:11:05.037 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:05.041 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:05.041 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:06.044 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:06.044 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:06.054 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:06.054 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:12.678 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:12.692 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:12.692 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:13.392 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:13.392 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:13.392 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:13.392 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:19.740 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:19.748 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:19.754 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:20.737 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:20.737 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:20.737 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:20.737 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:27.183 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:27.200 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:27.205 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:27.849 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:27.849 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:27.849 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:27.849 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:34.305 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:34.305 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:34.321 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:35.026 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:35.026 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:35.026 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:35.026 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:41.796 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:41.814 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:41.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:42.438 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:11:42.438 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:11:42.438 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:42.438 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:43.876 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 12:11:43.876 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:11:43.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:33.488 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:33.499 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:33.505 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:34.401 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:20:34.401 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:20:34.403 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:34.403 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:40.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:40.967 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:40.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:41.567 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:20:41.567 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:20:41.567 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:41.567 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:47.686 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:47.694 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:47.696 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:49.253 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:20:49.253 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:20:49.253 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:49.253 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:56.260 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:56.268 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:56.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:56.990 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:20:56.990 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:20:56.990 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:20:56.990 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:03.729 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:03.735 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:03.741 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:04.469 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:21:04.469 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:21:04.469 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:04.470 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:12.181 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:12.198 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:12.198 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:12.866 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 12:21:12.866 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 12:21:12.866 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 12:21:12.866 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:02:37.213 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:02:37.217 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:02:37.238 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:03:50.133 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:03:50.137 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:03:50.160 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:03:50.160 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:08:30.274 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:08:30.277 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:08:30.298 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:08:30.298 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:09:34.650 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:09:34.654 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:09:34.675 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:09:34.675 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:02.791 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:02.795 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:02.818 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:02.819 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:15.069 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:15.072 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:15.093 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:10:15.093 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:13.509 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:13.517 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:13.522 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:14.110 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:13:14.110 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:13:14.112 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:13:14.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:14.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:14.907 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:14.907 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:16.313 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 13:13:16.313 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:16.322 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:33.870 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:33.877 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:33.881 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:34.476 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:13:34.476 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:13:34.477 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:13:35.182 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:35.182 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:35.203 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:35.203 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:36.645 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 13:13:36.645 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:13:36.649 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:47.298 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:47.305 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:47.310 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:47.882 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:20:47.882 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:20:47.884 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:20:48.547 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:48.547 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:48.562 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:20:48.562 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:57.994 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:58.001 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:58.007 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:59.126 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:22:59.126 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:22:59.127 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:22:59.828 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:59.828 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:59.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:22:59.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:30:20.296 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:30:20.307 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:30:20.312 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:30:21.435 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:30:21.435 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:30:21.437 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:33:30.728 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:33:30.738 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:33:30.744 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:33:32.271 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:33:32.272 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:33:32.274 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:42:27.904 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:42:27.915 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:42:27.922 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:42:29.036 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:42:29.036 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:42:29.040 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:44:55.748 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:44:55.756 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:44:55.762 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:44:56.556 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:44:56.556 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:44:56.559 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:45:40.265 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:40.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:40.363 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:41.520 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:45:41.520 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:45:41.522 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:41.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:48.188 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:48.197 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:48.205 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:49.355 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:45:49.355 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:45:49.355 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:49.355 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:55.989 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:55.998 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:56.010 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:57.551 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:45:57.551 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:45:57.551 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:45:57.551 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:04.100 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:04.100 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:04.115 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:05.364 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:46:05.364 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:46:05.364 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:05.364 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:11.935 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:11.936 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:11.943 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:12.939 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:46:12.939 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:46:12.939 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:12.939 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:20.443 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:20.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:20.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:21.321 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:46:21.321 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:46:21.321 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:46:21.321 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:07.530 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:07.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:07.547 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:08.208 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:48:08.208 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:48:08.210 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:48:28.917 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:28.924 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:28.929 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:48:29.955 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:48:29.955 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:48:29.958 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:49:52.901 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:49:52.911 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:49:52.916 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:49:53.888 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:49:53.888 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:49:53.891 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:52:33.128 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:33.139 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:33.145 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:34.482 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:52:34.483 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:52:34.486 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:52:36.454 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:36.454 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:36.517 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:36.517 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:54.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:54.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:54.072 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:52:54.072 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:09.589 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:09.589 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:09.604 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:09.604 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:24.622 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:24.622 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:24.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:24.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.680 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.686 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.686 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.686 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.702 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.702 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.710 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:53:32.710 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:38.457 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:38.471 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:38.483 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:40.811 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:54:40.811 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:54:40.818 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:40.818 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:40.864 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:40.864 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:46.797 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:46.813 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:46.813 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:47.446 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:53.603 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:53.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:53.625 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:54.215 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:54:54.215 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:54:54.215 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:54.217 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:54.217 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:54:54.218 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:00.885 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:00.892 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:00.895 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:02.606 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:55:02.606 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:55:02.606 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:02.606 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:02.624 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:02.624 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.049 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.065 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.072 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:09.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:16.245 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:16.267 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:16.271 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:55:17.361 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:50.999 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.065 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.074 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.822 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:56:51.823 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:56:51.825 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.829 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.863 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:51.863 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:58.004 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:58.020 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:58.020 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:59.277 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:56:59.278 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:56:59.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:59.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:59.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:56:59.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:05.606 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:05.616 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:05.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:06.445 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:57:06.445 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:57:06.445 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:06.445 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:06.447 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:06.447 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:12.657 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:12.666 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:12.672 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:13.716 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:57:13.717 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:57:13.717 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:13.717 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:13.718 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:13.719 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.139 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.139 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.156 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:20.776 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:27.573 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:27.579 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:27.583 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:28.950 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:57:28.965 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:57:28.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:28.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:28.969 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:57:28.970 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:02.110 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:02.125 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:02.131 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:02.703 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:59:02.703 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:59:02.705 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 13:59:08.633 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:08.658 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:08.667 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:10.272 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:59:10.272 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:59:10.276 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:10.276 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:10.317 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:10.317 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:32.569 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:32.577 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:32.586 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:33.226 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:54.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:54.972 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:54.981 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 13:59:55.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:17.399 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:17.401 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:17.401 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:18.305 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:00:18.305 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:00:18.305 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:18.311 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:18.312 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:18.312 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:42.694 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:42.707 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:42.713 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:43.388 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:00:43.388 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:00:43.388 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:43.389 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:43.389 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:00:43.390 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:05.283 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:05.295 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:05.303 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:01:06.231 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:20.952 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:20.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:20.970 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:21.829 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:05:21.829 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:05:21.832 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:05:28.434 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:28.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:28.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:29.496 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:05:29.496 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:05:29.504 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:29.505 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:29.565 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:29.565 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:51.953 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:51.961 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:51.969 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:05:52.595 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:14.420 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:14.436 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:14.436 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:15.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:36.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:36.826 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:36.830 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:37.850 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:06:37.850 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:06:37.851 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:37.851 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:37.852 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:37.853 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:59.594 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:59.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:06:59.617 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:00.714 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:07:00.714 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:07:00.714 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:00.714 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:00.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:00.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:22.581 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:22.589 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:22.652 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:23.209 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:07:23.209 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:07:23.209 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:23.209 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:23.210 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:07:23.211 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:32.263 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:32.280 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:32.288 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:33.328 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:11:33.328 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:11:33.330 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:11:39.231 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:39.239 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:39.239 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:40.108 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:11:40.108 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:11:40.124 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:40.124 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:40.171 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:11:40.171 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:02.425 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:02.432 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:02.440 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:03.085 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:12:03.085 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:12:03.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:03.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:03.087 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:03.088 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:24.448 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:24.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:24.457 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:25.429 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.252 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.256 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.269 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:12:47.856 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:09.629 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:09.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:09.641 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:11.464 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:13:11.464 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:13:11.468 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:11.468 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:11.468 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:11.468 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:33.920 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:33.932 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:33.949 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:35.054 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:13:35.055 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:13:35.055 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:35.055 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:35.057 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:13:35.057 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:38.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:38.726 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:38.731 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:40.189 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:15:40.189 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:15:40.194 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:15:46.874 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:46.876 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:46.876 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:47.983 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:15:47.983 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:15:47.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:47.983 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:48.047 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:48.047 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.031 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.035 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.040 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:15:55.922 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:17.626 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:17.630 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:17.644 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:18.274 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:16:18.274 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:16:18.274 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:18.274 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:18.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:18.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:25.840 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:25.851 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:25.857 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:27.042 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:16:27.042 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:16:27.042 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:27.043 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:27.044 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:27.044 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:33.825 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:33.830 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:33.838 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:34.834 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:16:34.835 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:16:34.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:34.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:34.839 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:34.840 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.041 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.058 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.066 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.791 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:16:42.791 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:16:42.791 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.791 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.791 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:16:42.797 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:18:58.410 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:18:58.419 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:18:58.425 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:18:59.995 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:18:59.995 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:18:59.997 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:19:06.063 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:06.073 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:06.073 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:07.706 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:07.706 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:07.715 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:07.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:07.761 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:07.761 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:14.486 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:14.486 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:14.502 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:15.687 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:22.604 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:22.616 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:22.621 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:23.349 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:23.349 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:23.353 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:23.353 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:23.353 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:23.353 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:30.638 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:30.643 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:30.647 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:31.577 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:31.577 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:31.577 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:31.577 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:31.580 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:31.580 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.045 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.049 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.055 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.611 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:39.612 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:39.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.614 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.614 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:39.614 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:47.125 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:47.130 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:47.139 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:19:48.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:25.605 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:25.613 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:25.618 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:26.615 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:20:26.615 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:20:26.618 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:20:27.825 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:27.825 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:27.885 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:27.885 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:29.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:29.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:29.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:29.854 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:45.262 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:45.262 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:45.263 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:20:45.263 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:00.332 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:00.332 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:00.332 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:00.333 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:15.355 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:15.355 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:15.356 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:15.356 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:30.393 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:30.394 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:30.397 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:21:30.398 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:03.144 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:03.152 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:03.156 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:04.151 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:22:04.152 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:22:04.154 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:04.154 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:04.182 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:04.184 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:08.765 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:08.769 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:08.782 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:22:09.525 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:22:09.525 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:22:09.525 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:31:18.701 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:18.711 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:18.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:20.521 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:31:20.521 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:31:20.534 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:20.534 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:20.576 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:20.576 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:25.445 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:25.460 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:25.465 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:31:26.493 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:31:26.493 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:31:26.493 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:35:34.890 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:34.902 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:34.907 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:35.903 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 14:35:35.904 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 14:35:35.906 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 14:35:36.866 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:36.867 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:36.888 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:36.888 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:39.196 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:39.196 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:39.199 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:39.199 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:54.230 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:54.230 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:54.230 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:35:54.230 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:09.294 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:09.294 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:09.294 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:09.294 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:24.336 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:24.338 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:24.339 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:24.340 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:39.365 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:39.366 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:39.368 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 14:36:39.369 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:15.528 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:15.537 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:15.543 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:16.106 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:16.107 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:16.109 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:01:21.828 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:21.835 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:21.835 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:22.659 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:22.659 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:22.659 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:22.659 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:22.696 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:22.696 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:29.438 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:29.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:29.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:30.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:37.351 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:37.352 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:37.375 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:38.217 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:38.217 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:38.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:38.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:38.235 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:38.235 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:45.181 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:45.201 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:45.210 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:46.134 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:52.816 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:52.832 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:52.832 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:54.147 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:01:54.147 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:01:54.147 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:54.147 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:54.158 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:01:54.160 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:00.761 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:00.772 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:00.780 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:02.191 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:02:02.191 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:02:02.191 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:02.191 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:02.193 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:02.194 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:09.500 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:09.500 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:09.500 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:02:10.135 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:36.225 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:36.237 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:36.244 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:36.937 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:03:36.937 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:03:36.940 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:03:42.817 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:42.831 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:42.840 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:43.932 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:03:43.932 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:03:43.944 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:43.948 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:43.989 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:43.989 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:50.781 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:50.789 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:50.794 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:51.820 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:03:51.820 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:03:51.820 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:51.820 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:51.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:51.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:58.656 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:58.662 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:58.666 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:59.981 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:03:59.985 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:03:59.985 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:59.985 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:59.985 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:03:59.985 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:06.574 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:06.582 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:06.588 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:07.346 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:04:07.347 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:04:07.347 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:07.347 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:07.351 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:07.352 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:14.865 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:14.882 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:14.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:16.277 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:04:16.279 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:04:16.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:16.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:16.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:16.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:23.243 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:23.243 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:23.256 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:24.414 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:04:24.430 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:04:24.430 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:24.430 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:24.430 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:24.430 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:31.438 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:31.438 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:31.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:32.582 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:04:32.582 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:04:32.582 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:32.584 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:32.584 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:04:32.584 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:25.071 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:25.081 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:25.086 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:26.111 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:07:26.111 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:07:26.114 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:07:31.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:31.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:31.853 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:32.725 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:07:32.725 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:07:32.741 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:32.741 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:32.805 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:32.805 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:39.360 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:39.364 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:39.369 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:40.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:47.080 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:47.093 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:47.101 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:48.150 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:07:48.151 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:07:48.151 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:48.151 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:48.153 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:48.154 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:55.037 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:55.045 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:55.049 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:56.621 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:07:56.621 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:07:56.621 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:56.621 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:56.623 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:07:56.623 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:03.857 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:03.873 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:03.875 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:04.521 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:11.677 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:11.682 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:11.693 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:12.349 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:08:12.349 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:08:12.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:12.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:12.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:12.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:19.564 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:19.564 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:19.579 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:20.672 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:08:20.672 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:08:20.672 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:20.672 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:20.674 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:08:20.674 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:49.578 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:49.588 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:49.593 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:50.576 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:10:50.576 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:10:50.577 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:10:56.338 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:56.343 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:56.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:57.486 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:10:57.486 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:10:57.486 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:57.486 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:57.526 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:10:57.526 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:04.293 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:04.299 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:04.304 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:05.070 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:11.924 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:11.936 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:11.936 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:13.637 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:13.637 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:13.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:13.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:13.649 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:13.649 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:21.081 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:21.083 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:21.095 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:22.190 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:29.685 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:29.698 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:29.702 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:30.724 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:30.724 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:30.724 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:30.724 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:30.727 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:30.727 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.208 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.212 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.220 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:38.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:46.136 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:46.142 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:46.153 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:47.261 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:11:47.261 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:11:47.261 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:47.261 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:47.275 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:11:47.275 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:12.980 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:12.990 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:12.995 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:13.784 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:13.784 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:13.789 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:14:19.670 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:19.678 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:19.683 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:20.277 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:20.279 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:20.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:20.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:20.326 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:20.326 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:27.289 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:27.297 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:27.306 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:29.231 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:29.231 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:29.232 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:29.232 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:29.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:29.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:36.529 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:36.538 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:36.542 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:37.229 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:37.229 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:37.229 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:37.229 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:37.234 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:37.235 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:45.205 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:45.225 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:45.235 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:46.649 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:46.649 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:46.650 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:46.650 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:46.650 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:46.652 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.054 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.060 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.065 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.687 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:14:54.687 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:14:54.687 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.688 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:14:54.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.090 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.098 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.106 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.738 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:15:02.738 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:15:02.739 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.739 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.741 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:15:02.741 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:35.481 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:35.491 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:35.497 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:36.443 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:30:36.444 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:30:36.450 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:30:44.703 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:44.715 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:44.722 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:48.331 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:30:48.332 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:30:48.338 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:48.339 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:48.415 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:48.416 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:58.527 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:58.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:30:58.546 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:03.980 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:31:03.981 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:31:03.981 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:03.982 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:03.993 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:03.993 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:16.009 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:16.029 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:16.036 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:17.754 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:31:17.758 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:31:17.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:17.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:17.760 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:17.760 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:27.772 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:27.782 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:27.790 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:30.457 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:31:30.458 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:31:30.458 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:30.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:30.460 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:30.460 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:40.562 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:40.570 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:40.581 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:42.757 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:31:42.757 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:31:42.758 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:42.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:42.760 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:42.760 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:52.337 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:52.345 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:52.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:53.963 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:31:53.963 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:31:53.964 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:53.964 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:53.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:31:53.965 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:13.047 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:13.059 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:13.064 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:14.340 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:34:14.341 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:34:14.344 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:34:21.589 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:21.597 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:21.605 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:22.938 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:34:22.939 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:34:22.943 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:22.944 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:23.002 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:23.003 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:32.940 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:32.951 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:32.959 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:34.781 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:34:34.782 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:34:34.782 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:34.782 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:34.785 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:34.786 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:44.561 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:44.570 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:44.577 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:46.432 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:34:46.433 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:34:46.433 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:46.433 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:46.435 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:46.443 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:57.033 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:57.043 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:57.053 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:58.713 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:34:58.714 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:34:58.714 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:58.715 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:58.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:34:58.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:08.193 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:08.204 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:08.210 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:10.832 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:35:10.833 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:35:10.833 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:10.834 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:10.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:10.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:20.491 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:20.503 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:20.513 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:22.298 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:35:22.299 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:35:22.299 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:22.300 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:22.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:22.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:34.222 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:34.253 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:34.264 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:35.300 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:35:35.300 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:35:35.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:35.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:35.302 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:35:35.303 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:35.344 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:35.356 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:35.362 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:36.684 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:36:36.685 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:36:36.689 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:36:39.000 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:39.001 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:39.054 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:39.054 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:41.753 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:41.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:41.764 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:41.764 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:56.823 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:56.823 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:56.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:36:56.825 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.639 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.640 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.640 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.691 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.691 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.715 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.715 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:37:10.716 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:24.076 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:24.084 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:24.089 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:27.384 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 15:59:27.384 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 15:59:27.388 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 15:59:29.794 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:29.795 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:29.868 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:29.868 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:34.670 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:34.671 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:34.673 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:34.674 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:41.861 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:41.862 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:41.863 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:41.864 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:47.326 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:47.326 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:47.326 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 15:59:47.328 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:02.225 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:02.225 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:02.228 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:02.228 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:08.510 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:08.510 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:08.511 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:00:08.512 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:30.092 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:30.101 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:30.107 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:32.392 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:07:32.392 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:07:32.398 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:07:34.764 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:34.764 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:34.820 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:34.820 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:42.300 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:42.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:42.305 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:42.306 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:49.351 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:49.351 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:49.353 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:49.354 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:53.348 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:53.348 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:53.350 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:53.351 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:58.723 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:58.723 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:58.725 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:07:58.725 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:03.916 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:03.916 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:03.917 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:03.918 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:39.820 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:39.830 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:39.834 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:41.245 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:08:41.246 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:08:41.253 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:08:43.568 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:43.568 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:43.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:43.638 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:48.534 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:48.535 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:48.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:48.537 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:51.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:51.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:51.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:51.459 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:54.021 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:54.022 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:54.024 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:54.024 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:58.006 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:58.006 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:58.008 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:08:58.008 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:09:01.457 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:09:01.460 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:09:01.464 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:09:01.464 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.524 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.529 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.569 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.569 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.576 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.576 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.581 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.581 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.586 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.586 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.590 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:41:39.590 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:19.810 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:19.818 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:19.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:20.966 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:42:20.966 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:42:20.968 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:42:21.838 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:21.838 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:38.395 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:38.395 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:54.363 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:42:54.363 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:10.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:10.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:26.523 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:26.523 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:42.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:43:42.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:50:39.675 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:50:39.684 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:50:39.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:50:40.296 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:50:40.296 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:50:40.298 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:50:41.157 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:50:41.157 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:52:56.135 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:52:56.183 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:52:56.189 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:52:56.874 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:52:56.875 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:52:56.876 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:52:57.685 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:52:57.685 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:55:57.214 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:55:57.224 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:55:57.230 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:55:57.862 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:55:57.863 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:55:57.864 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:55:58.762 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:55:58.763 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:10.409 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:10.409 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:25.450 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:25.451 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:40.475 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:40.475 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:55.500 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:56:55.501 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:57:10.532 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:57:10.532 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:08.181 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:08.192 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:08.197 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:09.312 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 16:59:09.312 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 16:59:09.314 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 16:59:10.342 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:10.342 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:22.090 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:22.090 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:37.130 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:37.131 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:52.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 16:59:52.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:00:07.171 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:00:07.171 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:00:22.211 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:00:22.211 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:11.089 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:11.101 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:11.106 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:12.523 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:02:12.524 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:02:12.526 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:02:13.371 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:13.371 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:25.219 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:25.219 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:40.243 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:40.247 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:55.267 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:02:55.267 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:03:10.302 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:03:10.302 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:03:25.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:03:25.324 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:11.602 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:11.613 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:11.620 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:12.265 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:07:12.265 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:07:12.268 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:07:13.089 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:13.089 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:14.356 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:14.356 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:29.394 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:29.394 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:30.169 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:30.169 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:30.971 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:30.971 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:31.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:07:31.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:51.621 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:51.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:51.637 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:52.616 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:13:52.616 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:13:52.632 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:13:53.362 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:53.362 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:54.577 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:54.578 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:55.308 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:55.308 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:56.026 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:56.026 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:56.788 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:13:56.788 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:16:56.384 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:16:56.396 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:16:56.403 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:16:59.424 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:16:59.424 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:16:59.427 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:17:01.876 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:01.876 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:03.958 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:03.958 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:04.944 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:04.944 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:05.874 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:05.874 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:07.201 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:07.202 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:08.616 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:17:08.616 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:43.768 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:43.777 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:43.782 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:45.330 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:18:45.333 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:18:45.333 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:18:47.548 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:47.549 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:50.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:50.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:51.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:51.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:52.698 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:52.698 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:54.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:18:54.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:45.523 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:45.535 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:45.540 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:47.526 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:20:47.526 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:20:47.526 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:20:49.892 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:49.892 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:51.797 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:51.797 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:53.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:53.536 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:54.472 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:54.472 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:55.962 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:20:55.964 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:18.596 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:18.633 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:18.639 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:20.871 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:25:20.871 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:25:20.875 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:25:23.266 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:23.266 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:25.762 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:25.762 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:26.795 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:26.795 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:27.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:27.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:29.156 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:25:29.156 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:02.112 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:02.123 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:02.129 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:04.635 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:28:04.635 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:28:04.635 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:28:07.027 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:07.027 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:10.873 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:10.873 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:12.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:12.233 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:13.617 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:13.617 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:14.786 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:28:14.786 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:26.448 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:26.456 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:26.461 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:27.121 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:33:27.122 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:33:27.124 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:33:28.128 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:28.128 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:30.725 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:30.725 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:31.786 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:31.786 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:32.830 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:32.830 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:34.036 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:33:34.036 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:45.834 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:45.845 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:45.849 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:46.462 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:36:46.462 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:36:46.464 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:36:47.412 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:47.412 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:49.276 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:49.276 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:50.214 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:50.214 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:51.368 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:51.368 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:52.584 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:36:52.584 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:38:59.072 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:38:59.080 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:38:59.086 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:01.334 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:39:01.334 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:39:01.339 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:39:03.803 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:03.803 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:05.942 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:05.945 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:07.380 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:07.381 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:08.932 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:08.932 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:10.200 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:39:10.200 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:41:58.606 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:41:58.614 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:41:58.620 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:06.781 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:42:06.796 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:42:06.796 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:42:09.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:09.155 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:11.680 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:11.696 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:12.928 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:12.928 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:14.000 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:14.000 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:15.627 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:15.627 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:50.689 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:50.699 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:50.704 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:52.458 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:42:52.464 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:42:52.464 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:42:54.822 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:54.829 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:54.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:42:54.893 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:00.388 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:00.388 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:00.392 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:00.392 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:04.861 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:04.861 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:04.861 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:04.864 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:08.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:08.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:08.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:08.085 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:13.162 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:13.162 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:13.162 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:13.162 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:21.598 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:21.598 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:21.602 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:43:21.604 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:34.200 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:34.210 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:34.215 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:34.833 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:44:34.833 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:44:34.835 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:44:35.924 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:35.924 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:37.336 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:37.336 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:38.379 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:38.379 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:39.266 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:39.270 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:40.205 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:44:40.205 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:45:55.896 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:45:55.906 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:45:55.912 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:45:57.387 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:45:57.387 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:45:57.391 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:45:59.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:45:59.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:00.984 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:00.984 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:02.116 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:02.116 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:03.206 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:03.206 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:04.399 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:46:04.399 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:51:54.088 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:51:54.100 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:51:54.105 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:51:55.455 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:51:55.456 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:51:55.461 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:51:57.569 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:51:57.569 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:01.341 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:01.341 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:03.466 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:03.470 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:04.794 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:04.794 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:06.199 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:52:06.213 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:11.393 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:11.402 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:11.407 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:13.068 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 17:54:13.069 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 17:54:13.072 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 17:54:15.152 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:15.152 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:19.117 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:19.117 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:20.537 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:20.537 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:21.681 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:21.681 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:22.955 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 17:54:22.955 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:23.481 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:23.493 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:23.499 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:24.639 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:01:24.640 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:01:24.646 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:01:25.874 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:25.874 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:27.401 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:27.401 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:28.484 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:28.484 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:29.505 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:29.505 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:30.751 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:01:30.751 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:12.210 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:12.218 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:12.222 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:13.386 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:04:13.386 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:04:13.389 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:04:14.598 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:14.598 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:16.280 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:16.281 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:17.278 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:17.279 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:18.300 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:18.301 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:19.442 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:04:19.443 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:28.548 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:28.552 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:33.381 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:33.389 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:33.399 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:07:34.208 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:08:21.762 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:08:21.766 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:08:26.915 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:08:26.924 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:08:26.930 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:08:28.764 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:09:31.522 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:31.534 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:31.539 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:32.556 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:09:32.561 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:32.566 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:38.670 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:38.677 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:38.685 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:39.679 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:09:39.679 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:39.679 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:46.222 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:46.224 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:46.224 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:47.759 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:09:47.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:47.759 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:53.846 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:53.853 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:53.862 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:54.612 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:09:54.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:09:54.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:10:03.224 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:10:03.227 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:10:03.242 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:10:04.069 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:10:04.069 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:10:04.069 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:18.606 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:18.616 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:18.622 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:19.665 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:12:19.666 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:12:19.670 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:12:21.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:21.836 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:23.768 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:23.768 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:24.700 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:24.704 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:25.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:12:25.612 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:45.320 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:45.329 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:45.333 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:45.992 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:13:45.993 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:13:45.995 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:13:47.100 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:47.100 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:48.868 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:48.868 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:49.889 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:49.889 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:50.832 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:13:50.832 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:30:35.468 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:30:35.476 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:30:35.480 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:30:36.146 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:30:36.147 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:30:36.150 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:30:37.084 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:30:37.084 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:32:48.219 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:32:48.229 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:32:48.235 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:32:49.712 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:32:49.712 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:32:49.715 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:32:51.269 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:32:51.269 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:34:01.800 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:34:01.808 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:34:01.814 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:34:03.297 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:34:03.297 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:34:03.302 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:34:04.986 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:34:04.986 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:36:16.429 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:36:16.439 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:36:16.446 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:36:17.857 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:36:17.857 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:36:17.859 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:36:19.335 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:36:19.335 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:47:24.560 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:47:24.568 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:47:24.573 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:47:25.699 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:47:25.699 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:47:25.701 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[ERROR] 2024-12-23 18:47:26.916 [main] LoggerLoad - Error initializing Excel data: C:\Users\12017\Desktop\ELA PROJECTS\AS_testNG\src\test\resources\TestData\ExcelData.xlsx (The process cannot access the file because it is being used by another process)
+[INFO ] 2024-12-23 18:48:28.824 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:48:28.834 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:48:28.841 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:48:32.957 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:48:32.957 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:48:32.970 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:48:35.176 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:48:35.176 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:54:55.430 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:54:55.439 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:54:55.445 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:54:57.209 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 18:54:57.209 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 18:54:57.209 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 18:54:59.574 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 18:54:59.574 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:52.320 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:52.330 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:52.336 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:53.955 [main] LoggerLoad - DsAlgo Portal Url :https://dsportalapp.herokuapp.com/
+[INFO ] 2024-12-23 19:01:53.955 [main] LoggerLoad - Browser is opened
+[INFO ] 2024-12-23 19:01:53.959 [main] LoggerLoad - Excel is Initialised and Path :src/test/resources/TestData/ExcelData.xlsx
+[INFO ] 2024-12-23 19:01:56.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:56.452 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:59.526 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:01:59.526 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:00.684 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:00.684 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:03.006 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:03.006 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:04.211 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:04.211 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:06.060 [main] LoggerLoad - Closing the WebDriver instance
+[INFO ] 2024-12-23 19:02:06.060 [main] LoggerLoad - Driver Instance is created
+[INFO ] 2024-12-23 19:02:06.060 [main] LoggerLoad - Driver Instance is created
